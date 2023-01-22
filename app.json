@@ -1,0 +1,10 @@
+{
+  "name": "RNUI_GroceryApp",
+  "displayName": "RNUI_GroceryApp",
+  "android": {
+    "package": "com.anon.groceandroid"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anon.groceios"
+  }
+}
